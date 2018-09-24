@@ -58,6 +58,7 @@ router.get('/fileinfo/:name', function(req, res) {
 router.get('/fileinfo/:name/filesize', function(req, res) {
 	connection.query('select filesize from fileSummaries where name = \'' + req.params.name + '\'', function(error, result) {
 		if (error) {
+			res.send('No file with that name exist.');
 			throw error;
 		}
 
