@@ -1,6 +1,6 @@
 # bit.wav
 
-bit.wav is a decentralized music streaming service, where one user streams from another user rather than from a central server. Created for the Hack the Hammer hackathon hosted at McMaster University on February 2-3, 2018.
+bit.wav is a decentralized music streaming service prototype, where one user streams from another user rather than from a central server. Created for the Hack the Hammer hackathon hosted at McMaster University on February 2-3, 2018.
 
 ## Getting Started
 
@@ -14,12 +14,12 @@ Import bit.wav as a project into your favorite Java IDE. We used [IntelliJ IDEA]
 ## Built With
 
 * [Java](https://docs.oracle.com/javase/8/docs/) - The language used
-* [Apache Commons IO](https://commons.apache.org/proper/commons-io/download_io.cgi) - The net ;ibrary used
+* [Apache Commons IO](https://commons.apache.org/proper/commons-io/download_io.cgi) - The net library used
 
 ## Authors
 
 * **Surya Krishnan** [Github](https://github.com/krsh2001)
-* **Philip-Nicolas** [Github](https://github.com/Philip-Nicolas)
+* **Philip-Nicolas Varga** [Github](https://github.com/Philip-Nicolas)
 * **Cyrus Gandevia** [Github](https://github.com/CyrusGandevia)
 
 ## License
